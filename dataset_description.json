@@ -1,0 +1,25 @@
+{
+    "Name": "Cortical processing of flexible and context-dependent sensorimotor sequences",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "The brain generates complex sequences of movements that can be flexibly configured based on behavioural context or real-time sensory feedback, but how this occurs is not fully understood. Here we developed a \u2018sequence licking\u2019 task in which mice directed their tongue to a target that moved through a series of locations. Mice could rapidly branch the sequence online based on tactile feedback. Closed-loop optogenetics and electrophysiology revealed that the tongue and jaw regions of the primary somatosensory (S1TJ) and motor (M1TJ) cortices encoded and controlled tongue kinematics at the level of individual licks. By contrast, the tongue \u2018premotor\u2019 (anterolateral motor) cortex encoded latent variables including intended lick angle, sequence identity and progress towards the reward that marked successful sequence execution. Movement-nonspecific sequence branching signals occurred in the anterolateral motor cortex and M1TJ. Our results reveal a set of key cortical areas for flexible and context-informed sequence generation.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Xu, Duo",
+        "Chen, Yuxi",
+        "Dong, Mingyuan",
+        "Delgado, Angel M",
+        "Hughes, Natasha C",
+        "Zhang, Linghua",
+        "O'Connor, Daniel H"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
